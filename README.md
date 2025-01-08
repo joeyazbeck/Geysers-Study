@@ -1,2 +1,2 @@
-# Geysers-Study
-Statistical Analysis and Machine Learning for the Geysers Geothermal Field
+# Geysers Study
+This repository contains all the scripts I used to conduct the stastical analysis and machine learning on The Geysers Geothermal Field.
